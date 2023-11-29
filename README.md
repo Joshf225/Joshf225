@@ -1,6 +1,6 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Josh</h1>
-<h3 align="center">A passionate frontend developer from Ireland</h3>
+<h3 align="center">A passionate frontend & fullstack developer from Ireland</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2kzNmRvM3UyMXF4aWx3dGRwMjBtenp4ZDBtb3BnaDdkd202bHd1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshf225&label=Profile%20views&color=0e75b6&style=flat" alt="joshf225" /> </p>

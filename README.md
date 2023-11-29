@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshf225&label=Profile%20views&color=0e75b6&style=flat" alt="joshf225" /> </p>
 
-- 🔭 I’m currently working on **Netflix Clone**
+- 🔭 I’m currently working on a personal project called **'tutorizmo'**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Docker**
 
 - ⚡ Fun fact **I'm obsessed with space**
 

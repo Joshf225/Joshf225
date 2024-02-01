@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a personal project called **'tutorizmo'**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **TypeScript**
 
 - ⚡ Fun fact **I'm obsessed with space**
 
